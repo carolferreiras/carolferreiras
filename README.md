@@ -21,7 +21,8 @@ Cada avanço tecnológico me enche de empolgação, desde os mais recentes smart
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carolferreiras&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
----
+Projeto Explorando IA Generativa com Python
+![Desafio Pipeline de ETL - Santander Dev Week 2023 ](https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing#scrollTo=n1w78kNxTrZY)
 
 <!---
 carolferreiras/carolferreiras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
