@@ -24,6 +24,9 @@ Cada avanço tecnológico me enche de empolgação, desde os mais recentes smart
 Projeto Explorando IA Generativa com Python
 ![Desafio Pipeline de ETL - Santander Dev Week 2023 ](https://github.com/carolferreiras/carolferreiras/blob/main/SantanderDevWeek2023.ipynb)
 
+Projeto Criação de Relatório com Power BI
+![Desafio Power BI](https://github.com/carolferreiras/carolferreiras/blob/main/Desafio%20de%20Projeto_PowerBI.pbix)
+
 <!---
 carolferreiras/carolferreiras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
